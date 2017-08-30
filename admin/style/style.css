@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+  *{ padding:0px;
+      margin: 0px;
+      }
+
+    0px
+  }
+    body{ margin: inherit;
+        padding: inherit; }
+
+    .form_style  {
+          border: 1px solid #ff00004d;
+    }
+
+    .container {
+      border: 1px solid red;
+      background-image: url(e9c6b74985f749519cb49b3f78b5d098.jpg);
+      height: 644px;
+    }
+
+.txt{color: white}
+
+    .login {
+      border: 1px solid red;
+      position: relative;
+      left: 32%;
+      width: 31%;
+      top: 22%;
+      background-color: black;
+      border-radius: 16px;
+      height: 59%;
+      color: white;
+      text-align: center;
+    }
+    .login p {
+      text-align: left;
+      font-family: tahoma;
+      padding-left: 15px;
+    }
+    #button {
+      background-color: #db030380;
+      height: 50px;
+      position: relative;
+      top: 18px;
+    }
+    #button:hover{
+      border-color:
+    brown;
+    }
+
+    .footer {
+      position: relative;
+      color: #f5f5f5e6;
+      bottom: -165px;
+    }
+    input{
+      border: 1px;
+      height: 25px;
+      width: 71%;
+      color: #ddb92d;
+      font-size: larger;
+      height: 42px;
+      margin-left: -92px;
+      border-radius: 9px;
+      margin-left: 0px;
+    }
